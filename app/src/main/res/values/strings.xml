@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="btn1_name">确定</string>
+    <string name="drink"></string>
+    <string-array name="drink_list">
+        <item>tea</item>
+        <item>milk</item>
+        <item>奶茶</item>
+        <item>coffee</item>
+    </string-array>
+</resources>
